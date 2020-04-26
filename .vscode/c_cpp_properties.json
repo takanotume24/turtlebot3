@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/takuya/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/takuya/catkin_ws/src/pedsim_ros/3rdparty/libpedsim/include/**",
+        "/home/takuya/catkin_ws/src/pedsim_ros/pedsim_sensors/include/**",
+        "/home/takuya/catkin_ws/src/pedsim_ros/pedsim_simulator/include/**",
+        "/home/takuya/catkin_ws/src/pedsim_ros/pedsim_utils/include/**",
+        "/home/takuya/catkin_ws/src/pedsim_ros/pedsim_visualizer/include/**",
+        "/home/takuya/catkin_ws/src/realsense_gazebo_plugin/include/**",
+        "/home/takuya/catkin_ws/src/teleop_twist_joy/include/**",
+        "/home/takuya/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/takuya/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/takuya/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}

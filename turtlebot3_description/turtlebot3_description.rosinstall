@@ -1,0 +1,4 @@
+- git:
+    local-name: realsense2_description
+    uri: git@github.com:takanotume24/realsense-ros.git
+    version: for-turtlebot3-sim

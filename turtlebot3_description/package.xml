@@ -17,4 +17,5 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>urdf</depend>
   <depend>xacro</depend>
+  <depend>realsense2_description</depend>
 </package>
